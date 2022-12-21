@@ -1,0 +1,94 @@
+[
+    {
+        "id":1,
+        "name":"Merlion",
+        "location":[1.286920, 103.854570],
+        "desc":"Travellers acquainted with Singapore will probably already know of our citys national icon—the mythical Merlion, which possesses the body of a fish and the head of a lion. One of the most famous depictions of this iconic symbol is the statue found at Merlion Park—a scenic spot located at One Fullerton, Singapore, near the Central Business District. Before you pay a visit to this beautiful locale, you may want to learn more about the symbolism behind the Merlion, and how it intertwines with our nations history.",
+        "image":"https://thumb.viva.co.id/media/frontend/thumbs3/2022/05/16/6282297dc8c19-marlion-park-singapore_665_374.jpg"
+    },
+    
+    {
+        "id":2,
+        "name":"Asian Civilisations Museum",
+        "location":[1.287466, 103.851424],
+        "desc":"The ACM is the only museum in the region devoted to exploring the artistic heritage of Asia, especially the ancestral cultures of Singaporeans. Founded in 1993, and in its present building by the Singapore River since 2003, the ACM launched two new wings with new galleries in late 2015. The ACM shines the spotlight on the historical connections between the cultures of Asia, and between Asia and the world. At the ground floor, you’ll find the Trade and the Exchange of Ideas gallery, which is home to artefacts and artworks that tell stories of Singapores history as an emporium for global trade.",
+        "image":"https://media.cntraveler.com/photos/5a8f31e6a566be4ab1b467b1/16:9/w_2560,c_limit/Asian-Civilisations-Museum__2018_ACM-Exterior-View_day.jpg"
+    },
+    {
+        "id":3,
+        "name":"Clarke Quay",
+        "location":[1.290555, 103.846188],
+        "desc":"amous as a party hub of Singapore, Clark Quay comes to life during the night. Once a hub of commerce during 19th century, today it lives up to its legacy of being a busy center, just with more polish and sheen. Situated at the mouth of Singapore River, the Clarke Quay is a major tourist attraction flanked by stylish restaurants, high-end boutiques, pushcart vendors with a fusion of Asian and European culture. Also lined up along the river are buzzing nightclubs, river cruise bumboats and floating cafes that make the place SingaporeÍs major wining and dining area.",
+        "image":"https://www.visitsingapore.com/id_id/walking-tour/eat-drink/drinking-clarke-quay-boat-quay/_jcr_content/par-carousel/carousel_detailpage/carousel/item_1.thumbnail.carousel-img.740.416.jpg"
+    },
+    {
+        "id":4,
+        "name":"Fort Canning Park",
+        "location":[1.295526, 103.845331],
+        "desc":"Imagine a place in Singapore where Malay royalty once ruled in medieval times, where the British decided to surrender to the invading Japanese during World War II (WWII), and more recently, some of the worlds biggest music acts played to rapt audiences. This unlikely combination of events has taken place at the hilltop of Fort Canning Park, one of the country’s historical landmarks. Situated in central Singapore, the hill is accessible from the famous shopping belt of Orchard Road, while the National Museum of Singapore sits just behind it.",
+        "image":"https://www.visitsingapore.com/id_id/see-do-singapore/nature-wildlife/parks-gardens/fort-canning-park/_jcr_content/par-carousel/carousel_detailpage/carousel/item_1.thumbnail.carousel-img.740.416.jpg"
+    },
+    {
+        "id":5,
+        "name":"Orchard Road",
+        "location":[1.302279, 103.837399],
+        "desc":"Start your retail journey at TANGS. One of Singapores oldest department store, this shopping centre’s design pays homage to the Forbidden City, with idiosyncratic Eastern architectural features like its jade-green pagoda-esque roof and iconic red columns. The establishment is stocked with well-known brands, Asian collectibles and unique souvenirs. For a study in contrast, take a stroll down Orchard Road and make your way to ION Orchard, one of Singapores most dazzling shopping complexes.",
+        "image":"https://cdn1-production-images-kly.akamaized.net/vAfQ-5CXOCYlfqSfR9q_KUyh6rY=/0x0:5747x3239/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3649436/original/042708300_1638343247-000_1R08LP.jpg"
+    },
+    {
+        "id":6,
+        "name":"Singapore Flyer",
+        "location":[1.289332, 103.863152],
+        "desc":"In May 2007, the Singapore Flyer unveiled its mock capsule amidst much fanfare and anticipation. In February 2008, it held its corporate inaugural flights, building the hype surrounding what was to be Asias largest observation wheel. With a soft launch in March 2008, the Singapore Flyers doors were opened to the guests amid overwhelming response, before its official opening on 15 April 2008. Singapore Flyer was acquired by Straco Corporation Limited in November 2014 through Straco Leisure Pte Ltd, a joint venture between Bay Attractions Pte Ltd, a wholly-owned subsidiary of Straco Corporation Limited and WTS Leisure Pte Ltd. Singapore Flyer is Straco Corporation’s flagship project in Singapore.",
+        "image":"https://www.visitsingapore.com/id_id/see-do-singapore/recreation-leisure/viewpoints/singapore-flyer/_jcr_content/par-carousel/carousel_detailpage/carousel/item2.thumbnail.carousel-img.740.416.jpg"
+    },
+    {
+        "id":7,
+        "name":"Marina Bay Sands",
+        "location":[1.283099, 103.860295],
+        "desc":"Marina Bay Sands is a destination for those who appreciate luxury. An integrated resort notable for transforming Singapores city skyline, it comprises three 55-storey towers of extravagant hotel rooms and luxury suites with personal butler services. In addition, its architecture is made complete with the Sands SkyPark which crowns the three towers.",
+        "image":"https://www.visitsingapore.com/id_id/see-do-singapore/recreation-leisure/resorts/marina-bay-sands/_jcr_content/par-carousel/carousel_detailpage/carousel/item_1.thumbnail.carousel-img.740.416.jpg",
+        "subnav": [
+            {
+              "title": "ArtScience Museum"
+            },
+            {
+              "title": "Marina Bay Sands Skypark"
+            },
+            {
+              "title": "Double Helix Bridge"
+            }
+          ]
+    },
+    {
+        "id":8,
+        "name":"Gardens By The Bay",
+        "location":[1.281790, 103.863954],
+        "desc":"Located by the Marina Bay Waterfront in the heart of Singapore, Gardens by the Bay is a sanctuary for nature lovers and budding horticulturalists alike. Comprising three distinct spaces over 101 hectares–Bay South Garden, Bay East Garden and Bay Central Garden–this oasis of lush greenery has won multiple accolades since it first opened in 2012. These include the Landscape Award from World Architecture News in 2013, the Best Attraction in Asia Pacific from Travel Weekly in 2015 and the Best Attraction Experience at the 2019 Singapore Tourism Awards.",
+        "image":"https://www.visitsingapore.com/id_id/see-do-singapore/architecture/modern/gardens-by-the-bay/_jcr_content/par-carousel/carousel_detailpage/carousel/item0.thumbnail.carousel-img.740.416.jpg",
+        "subnav": [
+            {
+              "title": "Sample Link 1"
+            },
+            {
+              "title": "Sample Link 2"
+            }
+          ]
+    },
+    {
+        "id":9,
+        "name":"Chinatown",
+        "location":[1.284193, 103.843362],
+        "desc":"Chinatown’s physical development began from 1843, when more land leases and grants for homes and trade were awarded – particularly around Pagoda Street, Almeida Street (todays Temple Street), Smith Street, Trengganu Street, Sago Street and Sago Lane. In John Turnbull Thomsons 1846 map, this ethnic quarter expanded to the area demarcated by Telok Ayer Street, Singapore River, New Bridge Road and Pagoda Street. Developed areas by this time included Upper Macao Street (todays Upper Pickering Street), Upper Hokkien Street, Upper Chin Chew Street, Upper Cross Street and Mosque Street.",
+        "image":"https://www.visitsingapore.com/id_id/walking-tour/culture/in-the-neighbourhood-chinatown/_jcr_content/par-carousel/carousel_detailpage/carousel/item1.thumbnail.carousel-img.740.416.jpg",
+        "subnav": [
+            {
+              "title": "Sample Link 1"
+            },
+            {
+              "title": "Sample Link 2"
+            }
+          ]
+    }
+    
+]

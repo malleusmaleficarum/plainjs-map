@@ -1,0 +1,104 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+}
+
+.nav {
+  height: 100vh;
+  background-color: lightblue;
+}
+
+.nav ul {
+  list-style: none;
+  padding-inline-start: 0;
+  padding: 10px 20px;
+}
+
+.nav ul li {
+  margin-bottom: 10px;
+}
+
+.button li button {
+  cursor: pointer;
+  border: none;
+  font-weight: 600;
+  font-size: 18px;
+  text-align: left;
+}
+
+/* Right Part */
+
+.right-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Header */
+
+.header {
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: lightgray;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.header h2 {
+  cursor: pointer;
+}
+
+/* Main */
+.main {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+
+.modal {
+  height: 100%;
+  width: 250px;
+  background-color: burlywood;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 50;
+  transform: translateX(100%);
+  transition: transform 0.3s ease;
+  overflow-y: auto;
+}
+
+.modal h2 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.modal p {
+  padding: 10px;
+  text-transform: capitalize;
+  font-size: 14px;
+}
+
+.button {
+  display: flex;
+  flex-direction: column;
+}
+
+.active {
+  background-color: purple;
+}
+
+button {
+  background-color: transparent;
+}
